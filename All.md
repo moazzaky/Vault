@@ -18,3 +18,10 @@
 
 ---
 
+### Vaginal exam (adnexal mass)
+
+![[Pasted image 20230111155012.png]]
+![[Pasted image 20230111155024.png]]
+
+---
+
