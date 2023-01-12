@@ -35,3 +35,44 @@
 
 ---
 
+### Caecal volvulus
+This patient has a caecum which is not retroperitoneal and is therefore 'mobile' and susceptible to twisting or folding. The 'volvulus' (twist/fold) has resulted in dilatation of the caecum.
+#### Caecal Embryo Sign
+In caecal volvulus, the dilated caecum takes on a shape similar to a mammalian embryo. That is, the formation of a large dilated caecal pole (head), with one or two further 'segments' (body and tail).
+
+![[Pasted image 20230112160249.png]]
+![[Pasted image 20230112160302.png]]
+![[Pasted image 20230112160315.png]]
+
+------
+
+### Rigler's sign
+
+-   If there is free intra-abdominal gas adjacent to a gas-filled loop of bowel then both sides of the bowel wall are well-defined. This is known as 'Rigler's sign'.
+
+![[Pasted image 20230112160913.png]]
+![[Pasted image 20230112160925.png]]
+
+
+
+-   The multiple loops of dilated gas-filled bowel indicate small bowel obstruction.
+-   Rigler's sign is visible, and so obstruction has been complicated by perforation.
+-   When gas surrounds multiple loops of bowel there may be formation of sharp points or triangles (**arrowheads**).
+![[Pasted image 20230112160954.png]]
+![[Pasted image 20230112161006.png]]
+
+
+-   Rigler's sign is often less obvious.
+-   This image shows a tiny triangle of gas outside the bowel, indicating pneumoperitoneum. Even this tiny volume of free gas is potentially life-threatening in the context of suspected perforation.
+-   If in doubt make sure there is a good quality ERECT chest X-ray available.
+![[Pasted image 20230112161030.png]]
+
+#### Rigler's sign - Chest X-ray
+
+-   If perforation is suspected an erect chest X-ray is more sensitive than an abdominal X-ray for detection of free gas.
+-   Occasionally Rigler's sign is visible on the erect chest X-ray. This image shows free gas under the diaphragm which outlines the outer side of the bowel wall.
+![[Pasted image 20230112161055.png]]
+![[Pasted image 20230112161124.png]]
+
+------
+
